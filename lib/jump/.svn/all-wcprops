@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump
+END
+Jama-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/Jama-1.0.1.jar
+END
+postgis_1_0_0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/postgis_1_0_0.jar
+END
+postgresql-8.1dev-403.jdbc2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/postgresql-8.1dev-403.jdbc2.jar
+END
+jump-core-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jump-core-1.2.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jdom.jar
+END
+jump-workbench-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jump-workbench-1.2.jar
+END
+jai_codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jai_codec.jar
+END
+jts-1.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jts-1.7.2.jar
+END
+jai_core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/jai_core.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/xercesImpl.jar
+END
+bsh-2.0b1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/bsh-2.0b1.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/g2lab/!svn/ver/162/commons/trunk/lib/jump/xml-apis.jar
+END

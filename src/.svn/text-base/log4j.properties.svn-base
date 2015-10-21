@@ -1,0 +1,6 @@
+log4j.rootCategory=DEBUG,logview
+
+log4j.appender.logview=org.apache.log4j.net.SocketAppender
+log4j.appender.logview.remoteHost=localhost
+log4j.appender.logview.port=4445
+log4j.appender.logview.locationInfo=true 

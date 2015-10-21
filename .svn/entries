@@ -1,0 +1,74 @@
+10
+
+dir
+250
+https://svn-geo.hcu-hamburg.de/svn/g2lab/commons/trunk
+https://svn-geo.hcu-hamburg.de/svn/g2lab
+
+
+
+2013-01-18T17:48:29.435627Z
+230
+ck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+57b96c68-d92c-11e0-a8db-45ee9de25771
+
+.classpath
+file
+396
+
+
+
+2014-03-21T19:31:17.000000Z
+fe32b5eaccb6b81890c8703ec17847e7
+2014-03-21T19:30:35.130475Z
+396
+ck
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10615
+
+.settings
+dir
+
+lib
+dir
+
+src
+dir
+
+test
+dir
+

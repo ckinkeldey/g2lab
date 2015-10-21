@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/g2lab/!svn/ver/360/commons/trunk/test/net/g2lab/feature
+END
+PolygonFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/g2lab/!svn/ver/157/commons/trunk/test/net/g2lab/feature/PolygonFeatureTest.java
+END
+PointFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/g2lab/!svn/ver/157/commons/trunk/test/net/g2lab/feature/PointFeatureTest.java
+END
+TestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/g2lab/!svn/ver/360/commons/trunk/test/net/g2lab/feature/TestBase.java
+END
+ClassifiedPolygonFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/g2lab/!svn/ver/157/commons/trunk/test/net/g2lab/feature/ClassifiedPolygonFeatureTest.java
+END

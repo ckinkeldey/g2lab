@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/g2lab/!svn/ver/350/commons/trunk/src/net/g2lab/layer
+END
+AbstractLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/g2lab/!svn/ver/325/commons/trunk/src/net/g2lab/layer/AbstractLayer.java
+END
+CachedFeatureLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/g2lab/!svn/ver/229/commons/trunk/src/net/g2lab/layer/CachedFeatureLayer.java
+END
+PolygonFeatureLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/g2lab/!svn/ver/320/commons/trunk/src/net/g2lab/layer/PolygonFeatureLayer.java
+END
+RasterLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/g2lab/!svn/ver/350/commons/trunk/src/net/g2lab/layer/RasterLayer.java
+END
+Layer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/g2lab/!svn/ver/320/commons/trunk/src/net/g2lab/layer/Layer.java
+END

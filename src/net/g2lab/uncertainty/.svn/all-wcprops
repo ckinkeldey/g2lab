@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/g2lab/!svn/ver/360/commons/trunk/src/net/g2lab/uncertainty
+END
+RuleImageUncertainty.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/g2lab/!svn/ver/437/commons/trunk/src/net/g2lab/uncertainty/RuleImageUncertainty.java
+END
+SpectralUncertainty.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/g2lab/!svn/ver/419/commons/trunk/src/net/g2lab/uncertainty/SpectralUncertainty.java
+END
+ClassificationUncertainty.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/g2lab/!svn/ver/360/commons/trunk/src/net/g2lab/uncertainty/ClassificationUncertainty.java
+END
+LacunarityUncertainty.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/g2lab/!svn/ver/451/commons/trunk/src/net/g2lab/uncertainty/LacunarityUncertainty.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/g2lab/!svn/ver/360/commons/trunk/test/net/g2lab/layer
+END
+CachedFeatureLayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/g2lab/!svn/ver/227/commons/trunk/test/net/g2lab/layer/CachedFeatureLayerTest.java
+END
+PolygonFeatureLayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/g2lab/!svn/ver/227/commons/trunk/test/net/g2lab/layer/PolygonFeatureLayerTest.java
+END
+RasterLayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/g2lab/!svn/ver/360/commons/trunk/test/net/g2lab/layer/RasterLayerTest.java
+END

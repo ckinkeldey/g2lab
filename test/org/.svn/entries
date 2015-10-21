@@ -1,0 +1,31 @@
+10
+
+dir
+368
+https://svn-geo.hcu-hamburg.de/svn/g2lab/commons/trunk/test/org
+https://svn-geo.hcu-hamburg.de/svn/g2lab
+
+
+
+2013-06-17T22:37:35.381777Z
+326
+ck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+57b96c68-d92c-11e0-a8db-45ee9de25771
+
+geotools
+dir
+

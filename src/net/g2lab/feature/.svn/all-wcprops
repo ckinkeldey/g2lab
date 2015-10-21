@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/g2lab/!svn/ver/281/commons/trunk/src/net/g2lab/feature
+END
+ClassifiedPolygonFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/ClassifiedPolygonFeature.java
+END
+UncertaintyIntPolygonFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/UncertaintyIntPolygonFeature.java
+END
+PolygonFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/PolygonFeature.java
+END
+UncertaintyDoublePolygonFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/UncertaintyDoublePolygonFeature.java
+END
+PartialBoundaries.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/PartialBoundaries.java
+END
+UncertaintyBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/UncertaintyBoundary.java
+END
+PointFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/g2lab/!svn/ver/127/commons/trunk/src/net/g2lab/feature/PointFeature.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/g2lab/!svn/ver/394/commons/trunk/src/net/g2lab/feature/Feature.java
+END
+UncertaintyPointFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/g2lab/!svn/ver/228/commons/trunk/src/net/g2lab/feature/UncertaintyPointFeature.java
+END
+UncertaintyLineStringFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/g2lab/!svn/ver/394/commons/trunk/src/net/g2lab/feature/UncertaintyLineStringFeature.java
+END
+LineStringFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/g2lab/!svn/ver/195/commons/trunk/src/net/g2lab/feature/LineStringFeature.java
+END
